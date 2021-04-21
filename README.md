@@ -13,7 +13,7 @@ My name is Mário Camilotti and ...:
 🌍 And I also like to travel
 
 
-##  Connect with me
+##  Connect with me:
 
 <a href= "https://www.linkedin.com/in/mario-camilotti/" target="_blank">
   <img align="center" alt="Mario Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
@@ -32,6 +32,7 @@ My name is Mário Camilotti and ...:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="rails" width="40" style="max-width:100%;"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="rails" width="40" style="max-width:100%;"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" style="max-width:100%;"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="rails" width="40" style="max-width:100%;"></img>
   
   
 
