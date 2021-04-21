@@ -8,7 +8,7 @@ My name is Mário Camilotti and ...:
 
 📊 I'm working with Business Intelligence
 
-📚 Currently studying Azure and LGPD
+📚 Currently Analysis and Systems Development
 
 🌍 And I also like to travel
 
