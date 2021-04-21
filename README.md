@@ -19,6 +19,10 @@ My name is Mário Camilotti and ...:
   <img align="center" alt="Mario Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
        style="max-width:100%;">
   </a>
+  <a href= "https://www.facebook.com/mario.camilotti" target="_blank">
+  <img align="center" alt="Mario facebook" height="30" width="40" src="https://www.facebook.com/mario.camilotti"
+       style="max-width:100%;">
+  </a>
 
 
 
