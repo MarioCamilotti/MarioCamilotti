@@ -34,6 +34,8 @@ My name is Mário Camilotti and ...:
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" style="max-width:100%;"></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="rails" width="40" style="max-width:100%;"></img>
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
   
 
 
