@@ -42,6 +42,12 @@ My name is Mário Camilotti and ...:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="rails" width="40" style="max-width:100%;"></img>
   
   ![Mario Camilotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioCamilotti&show_icons=true&theme=dark)
+  
+   ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/MarioCamilotti/count.svg" />
+ </p>
+
 
 
   
