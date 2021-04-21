@@ -24,7 +24,7 @@ My name is Mário Camilotti and ...:
        style="max-width:100%;">
   </a>
 <a href= "https://www.instagram.com/mario_camilotti/?hl=pt-br" target="_blank">
-  <img align="center" alt="MarioInstagram" height="30" width="40" src="https://image.flaticon.com/icons/png/128/179/179328.png"
+  <img align="center" alt="MarioInstagram" height="30" width="40" src="https://image.flaticon.com/icons/png/128/1409/1409946.png"
        style="max-width:100%;">
   </a>  
 
