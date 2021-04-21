@@ -23,7 +23,10 @@ My name is Mário Camilotti and ...:
   <img align="center" alt="Mariofacebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
        style="max-width:100%;">
   </a>
-  
+<a href= "https://www.instagram.com/mario_camilotti/?hl=pt-br" target="_blank">
+  <img align="center" alt="MarioInstagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/instagram-original.svg"
+       style="max-width:100%;">
+  </a>  
 
 
 
