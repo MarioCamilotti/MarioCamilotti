@@ -13,7 +13,11 @@ My name is Mário Camilotti and ...:
 🌍 And I also like to travel
 
 
-[![instagram Badge](https://www.instagram.com/mario_camilotti/?hl=pt-br 
+##Connect with me
+<a href= "https://www.linkedin.com/in/mario-camilotti/" target="_blank">
+  <img align="center" alt="Mario Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+       style="max-width:100%;">
+  </a>
 
 
 
