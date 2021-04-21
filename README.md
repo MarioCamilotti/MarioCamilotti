@@ -27,6 +27,10 @@ My name is Mário Camilotti and ...:
   <img align="center" alt="MarioInstagram" height="30" width="40" src="https://image.flaticon.com/icons/png/128/1409/1409946.png"
        style="max-width:100%;">
   </a>  
+  
+  ## My Skills
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="rails" width="40" style="max-width:100%;"></img>
+  
 
 
 
