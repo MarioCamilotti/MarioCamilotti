@@ -13,10 +13,8 @@ My name is Mário Camilotti and ...:
 🌍 And I also like to travel
 
 
-
-
 [![instagram Badge](https://www.instagram.com/mario_camilotti/?hl=pt-br 
 [![Linkedin Badge](https://www.linkedin.com/in/mario-camilotti//)](https://www.linkedin.com/in/mario-camilotti/) 
-[![Gmail Badge](https://mail.google.com/mail/u/0/#inbox)](https://mail.google.com/mail/u/0/#inbox)
+
 
 
