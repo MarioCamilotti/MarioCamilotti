@@ -14,7 +14,7 @@ My name is Mário Camilotti and ...:
 
 
 [![instagram Badge](https://www.instagram.com/mario_camilotti/?hl=pt-br 
-[![Linkedin Badge](https://www.linkedin.com/in/mario-camilotti//)](https://www.linkedin.com/in/mario-camilotti/) 
+
 
 
 
